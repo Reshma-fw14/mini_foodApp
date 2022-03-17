@@ -71,4 +71,59 @@ const foodItem= [
     img: 'images/biryani/memonibiryani.png',
     quantity: 1
 },
+{
+    id: 9,
+    name: 'Mughlai Biryani',
+    category : 'biryani',
+    rating : 4.3,
+    price: 15,
+    img: 'images/biryani/mughlai-biryani.jpg',
+    quantity: 1
+},
+{
+    id: 10,
+    name: 'Chicken Roast',
+    category : 'chicken',
+    rating : 4.3,
+    price: 11,
+    img: 'images/chicken/Chicken_roast.jpg',
+    quantity: 1
+},
+{
+    id: 11,
+    name: 'Chicken Curry',
+    category : 'chicken',
+    rating : 4.3,
+    price: 10,
+    img: 'images/chicken/Chicken-Curry.jpg',
+    quantity: 1
+},
+{
+    id: 12,
+    name: 'Chicken Do Pyaza',
+    category : 'chicken',
+    rating : 4.3,
+    price: 14,
+    img: 'images/chicken/Chicken-do-Pyaza.jpg',
+    quantity: 1
+},
+{
+    id: 13,
+    name: 'Chicken Masala',
+    category : 'chicken',
+    rating : 4.3,
+    price: 12,
+    img: 'images/chicken/Chicken-Masala.jpeg',
+    quantity: 1
+},
+{
+    id: 14,
+    name: 'Handi Chicken',
+    category : 'chicken',
+    rating : 4.3,
+    price: 17,
+    img: 'images/chicken/Handi-chicken.jpg',
+    quantity: 1
+},
+
 ]
