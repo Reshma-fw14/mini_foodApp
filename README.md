@@ -7,7 +7,7 @@ Mini Food App .
 -user can see perticular section <br/>
 -user can add it to cart <br/>
 
-deployed link : ()
+[visit site](https://myfoodapp2.netlify.app/)
 
 <h1>glimpses</h1>
 
