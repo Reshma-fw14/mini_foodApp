@@ -497,7 +497,7 @@ color: white;
         padding: 5px 10px;
         margin: 0;
         border:  1px solid lightcoral;
-        float: right;
+        /* float: right; */
     }
     .cart-btn{
         font-size: 14px;
