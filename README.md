@@ -1,4 +1,4 @@
-# shoppingsite
+# mini_foodApp
 
 Some screenshots from the project
 
