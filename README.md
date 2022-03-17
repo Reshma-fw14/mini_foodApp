@@ -11,13 +11,12 @@ Mini Food App .
 
 <h1>glimpses</h1>
 
-![Screenshot](./images/screenShots/food_1.png)
+![Screenshot ](./images/screenShots/food_1.png)
 
 ![Screenshot](./images/screenShots/food_n-3.png)
+![Screenshot  ](./images/screenShots/food_n-2.png )
 
-![Screenshot](./images/screenShots/food_n-2.png)
-
-![Screenshot](./images/screenShots/food_n-1.png)
+<img align="center">![Screenshot](./images/screenShots/food_n-1.png)</img>
 
 
 
