@@ -1,14 +1,15 @@
 # mini_foodApp
 Mini Food App .
 
-##features 
--user can select food
--user can see perticular section
--user can add it to cart
+
+<h1>features</h1> <br/>
+-user can select food <br/>
+-user can see perticular section <br/>
+-user can add it to cart <br/>
 
 deployed link : ()
 
-##glimpses
+<h1>glimpses</h1>
 
 ![Screenshot (142)](https://user-images.githubusercontent.com/68517660/138282796-0e46154f-b75f-438c-93a6-e9a56c0681d8.png)
 
