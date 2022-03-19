@@ -1,5 +1,4 @@
 # mini_foodApp
-Mini Food App .
 
 
 <h1>features</h1> <br/>
@@ -10,6 +9,12 @@ Mini Food App .
 [visit site](https://myfoodapp2.netlify.app/)
 
 <h1>glimpses</h1>
+
+## Tech Stack :- 
+
+- #### HTML
+- #### CSS
+- #### Javascript
 
 ![Screenshot ](./images/screenShots/food_1.png)
 
